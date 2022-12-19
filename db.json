@@ -1,0 +1,92 @@
+{
+  "Ficcao-cientifica": [
+    {
+      "id": 1,
+      "titulo": "Interestelar",
+      "autor": "Christoper Nolan",
+      "preco": 34.9,
+      "sinopse": "Um grupo de exploradores faz uso de um “buraco-de-minhoca” para superar as limitações de uma viagem espacial humana e conquistar as grandes distâncias relacionadas a uma travessia pelas estrelas. Eles estão em busca de um novo planeta que possa ser habitável pela raça humana"
+    },
+    {
+      "id": 2,
+      "titulo": "Eu, Robô",
+      "autor": "Isaac Asimov",
+      "preco": 27.9,
+      "sinopse": "Eu, Robô é um conjunto de nove contos que relatam a evolução dos autômatos através do tempo. É neste livro que são apresentadas as célebres Três Leis da Robótica: os princípios que regem o comportamento dos robôs e que mudaram definitivamente a percepção que se tem sobre eles na própria ciência."
+    },
+    {
+      "id": 3,
+      "titulo": "Flores Para Algernon",
+      "autor": "Daniel Keyes",
+      "preco": 35.9,
+      "sinopse": "Uma cirurgia revolucionária promete aumentar o QI do paciente. Charlie Gordon, um homem com deficiência intelectual severa, é selecionado para ser o primeiro humano a passar pelo procedimento. O experimento é um avanço científico sem precedentes, e a inteligência de Charlie aumenta tanto que ultrapassa a dos médicos que o planejaram. Entretanto, Charlie passa a ter novas percepções da realidade e começa a refletir sobre suas relações sociais e até o papel de sua existência."
+    },
+    {
+      "id": 4,
+      "titulo": "Jogos vorazes",
+      "autor": "Suzanne Collins",
+      "preco": 32.9,
+      "sinopse": "Quando Katniss Everdeen, de 16 anos, decide participar dos Jogos Vorazes para poupar a irmã mais nova, causando grande comoção no país, ela sabe que essa pode ser a sua sentença de morte. Mas a jovem usa toda a sua habilidade de caça e sobrevivência ao ar livre para se manter viva."
+    }
+  ],
+  "Romance-policial": [
+    {
+      "id": 5,
+      "titulo": "Assassinato no Expresso do Oriente",
+      "autor": "Agatha Christie",
+      "preco": 32.99,
+      "sinopse": "Várias pessoas estão fazendo uma longa viagem em um luxuoso trem. A paz, entretanto, é perturbada por um acontecimento sinistro: um terrível assassinato. À bordo, está ninguém menos que o mundialmente reconhecido detetive Hercule Poirot, que se voluntaria para iniciar uma varredura entre todos os viajantes, ouvindo testemunhas e possíveis suspeitos para descobrir o que de fato aconteceu."
+    },
+    {
+      "id": 6,
+      "titulo": "Morte no Nilo",
+      "autor": "Agatha Christie",
+      "preco": 26.9,
+      "sinopse": "A tranquilidade de um cruzeiro de luxo pelo Nilo chega ao fim quando o corpo de Linnet Doyle, uma bela e jovem milionária, é descoberto em sua cabine. Porém, para azar do autor do crime, o brilhante detetive Hercule Poirot está a bordo. Ele logo descobre que cada passageiro é suspeito, pois todos tinham motivos para tirar a vida de Linnet."
+    },
+    {
+      "id": 7,
+      "titulo": "Arsène Lupin, o ladrão de casaca",
+      "autor": "Maurice Leblanc",
+      "preco": 22.99,
+      "sinopse": "A alta sociedade francesa diverte-se a bordo do transatlântico Provence, quando chega a notícia: Arsène Lupin, o ladrão impossível de se capturar, viaja disfarçado entre os passageiros. Eis a chance de o Inspetor Ganimard prender o homem capaz de realizar crimes perfeitos e fugas espetaculares."
+    },
+    {
+      "id": 8,
+      "titulo": "A Última Festa",
+      "autor": "Lucy Foley",
+      "preco": 34.2,
+      "sinopse": "Um grupo de amigos se reúne todos os anos para comemorar, juntos, a virada de ano. Como uma forma de estreitar laços que acabam sendo desgastados com o passar dos anos, o grupo criou uma tradição que tinha tudo para render belas memórias e histórias inesquecíveis. E uma delas realmente será inesquecível."
+    }
+  ],
+  "Educativos": [
+    {
+      "id": 9,
+      "titulo": "O codificador limpo",
+      "autor": "Bob Martin",
+      "preco": "40.00",
+      "sinopse": "O Codificador Limpo contém muitos conselhos pragmáticos que visam transformar o comportamento do profissional de software. O autor transmite valiosos ensinamentos sobre ética, respeito, responsabilidade, sinceridade e comprometimento, através de sua experiência como programador."
+    },
+    {
+      "id": 10,
+      "titulo": "Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java",
+      "autor": "Ana Fernanda Gomes e Edilene Aparecida",
+      "preco": "99,90",
+      "sinopse": "Considerada obra de referência para alunos iniciantes no estudo da programação de computadores, este livro apresenta as principais tecnicas para a construção de algoritmos e sua implementação nas linguagens Pascal. C/C++ e Java - linguagens básicas e funda- mentais para o programador profissional."
+    },
+    {
+      "id": 11,
+      "titulo": "Código limpo: Habilidades práticas do Agile Software",
+      "autor": "Robert C. Martin",
+      "preco": "69.90",
+      "sinopse": "Martin se reuniu com seus colegas do Mentor Object para destilar suas melhores e mais ágeis práticas de limpar códigos “dinamicamente” em um livro que introduzirá gradualmente dentro de você os valores da habilidade de um profissional de softwares e lhe tornar um programador melhor –mas só se você praticar."
+    },
+    {
+      "id": 12,
+      "titulo": "JavaScript: O Guia Definitivo ",
+      "autor": "David Flanagan",
+      "preco": "129.90",
+      "sinopse": "Referência completa para programadores, JavaScript: O guia definitivo fornece uma ampla descrição da linguagem JavaScript básica e das APIs JavaScript do lado do cliente definidas pelos navegadores Web. Em sua 6ª edição, cuidadosamente reescrita para estar de acordo com as melhores práticas de desenvolvimento Web atuais, abrange ECMAScript 5 e HTML5"
+    }
+  ]
+}
