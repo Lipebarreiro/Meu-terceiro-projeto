@@ -2,8 +2,6 @@
 
 Projeto Resília - JSON SERVER
 
-O projeto foi desenvolvido para que o usuário faça um servidor JSON
-
 🚀 Finalidade
 O projeto foi uma proposta do curso em desenvolvimento web da Resília Educação aonde fomos desafiados a realizar um "server"
 
